@@ -14,8 +14,7 @@ const Footer = () => {
           <div className="col-span-1 md:col-span-2">
             <h3 className="text-xl font-bold mb-4">YorkWheels</h3>
             <p className="text-pink-100 mb-4">
-              Providing comprehensive healthcare solutions and emergency response systems 
-              for better patient care and medical facility management.
+              YorkWheels is your premium destination for luxury cars and superbikes. Discover, compare, and connect with the best vehicles and dealers in your city.
             </p>
             <div className="flex space-x-4">
               <button className="text-pink-100 hover:text-white transition-colors">
@@ -54,9 +53,9 @@ const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold mb-4">Contact</h4>
             <div className="space-y-2 text-pink-100">
-              <p>Emergency: 911</p>
-              <p>Support: (555) 123-4567</p>
-              <p>Email: infoYorkWheels.com</p>
+              <p>Phone: (555) 987-6543</p>
+              <p>Email: info@yorkwheels.com</p>
+              <p>Address: 123 Luxury Drive, Toronto, ON</p>
             </div>
           </div>
         </div>
@@ -67,10 +66,10 @@ const Footer = () => {
         <div className="container mx-auto px-4 py-4">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-pink-100 text-sm">
-              &copy; {currentYear} YorkWheels All rights reserved.
+              &copy; {currentYear} YorkWheels. All rights reserved.
             </div>
             <div className="text-pink-100 text-sm mt-2 md:mt-0">
-              Built for BCDR Simulation | Emergency Response System
+              The Premium Car & Bike Marketplace
             </div>
           </div>
         </div>
