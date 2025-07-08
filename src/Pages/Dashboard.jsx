@@ -182,7 +182,7 @@ const Dashboard = () => {
       <div className="text-pink-900 py-20 px-4 text-center">
         <h1 className="text-4xl md:text-5xl font-extrabold mb-4 tracking-tight drop-shadow">Find Premium Vehicles</h1>
         <p className="text-lg md:text-xl mb-8 text-pink-700">
-          Discover luxury cars and superbikes – find your dream ride today!!
+          Discover luxury cars and superbikes – find your dream ride today!
         </p>
 
         {/* Search Bar */}
